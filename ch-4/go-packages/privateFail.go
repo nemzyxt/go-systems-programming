@@ -2,8 +2,8 @@
 package main
 
 import (
-	"fmt"
 	"anotherPackage"
+	"fmt"
 )
 
 func main() {
